@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="530" viewBox="0 0 1180 530"><rect width="100%" height="100%" fill="#ffffff"/><defs></defs><rect x="0" y="0" width="1180" height="530" fill="#fcfcfb"/>
+<text x="20" y="32" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="17" font-weight="700" fill="#0b0b0b" text-anchor="start"><tspan x="20" dy="0.0">처음 보는 배치 T01–T10에서 v1(100판 학습)과 v2(200판 학습) — 모델마다 20판 (2026-11-05)</tspan></text>
+<text x="20" y="70" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="14.5" font-weight="700" fill="#0b0b0b" text-anchor="start"><tspan x="20" dy="0.0">(a) 단계까지 간 판 수 (20판 중)</tspan></text>
+<rect x="20" y="84" width="12" height="12" rx="2" fill="#2a78d6" stroke="none" stroke-width="1.2"/>
+<text x="38" y="95" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start"><tspan x="38" dy="0.0">v1 (100판)</tspan></text>
+<rect x="150" y="84" width="12" height="12" rx="2" fill="#eb6834" stroke="none" stroke-width="1.2"/>
+<text x="168" y="95" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start"><tspan x="168" dy="0.0">v2 (200판)</tspan></text>
+<line x1="70" y1="400.0" x2="500" y2="400.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="62" y="404.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11.5" font-weight="400" fill="#898781" text-anchor="end"><tspan x="62" dy="0.0">0</tspan></text>
+<line x1="70" y1="330.0" x2="500" y2="330.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62" y="334.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11.5" font-weight="400" fill="#898781" text-anchor="end"><tspan x="62" dy="0.0">5</tspan></text>
+<line x1="70" y1="260.0" x2="500" y2="260.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62" y="264.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11.5" font-weight="400" fill="#898781" text-anchor="end"><tspan x="62" dy="0.0">10</tspan></text>
+<line x1="70" y1="190.0" x2="500" y2="190.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62" y="194.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11.5" font-weight="400" fill="#898781" text-anchor="end"><tspan x="62" dy="0.0">15</tspan></text>
+<line x1="70" y1="120.0" x2="500" y2="120.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62" y="124.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11.5" font-weight="400" fill="#898781" text-anchor="end"><tspan x="62" dy="0.0">20</tspan></text>
+<path d="M82.0,400 V320.0 Q82.0,316.0 86.0,316.0 H108.0 Q112.0,316.0 112.0,320.0 V400 Z" fill="#2a78d6"/>
+<path d="M114.0,400 V194.0 Q114.0,190.0 118.0,190.0 H140.0 Q144.0,190.0 144.0,194.0 V400 Z" fill="#eb6834"/>
+<text x="113.0" y="420" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="113.0" dy="0.0">잡기</tspan></text>
+<path d="M168.0,400 V320.0 Q168.0,316.0 172.0,316.0 H194.0 Q198.0,316.0 198.0,320.0 V400 Z" fill="#2a78d6"/>
+<path d="M200.0,400 V236.0 Q200.0,232.0 204.0,232.0 H226.0 Q230.0,232.0 230.0,236.0 V400 Z" fill="#eb6834"/>
+<text x="199.0" y="420" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="199.0" dy="0.0">들기</tspan></text>
+<path d="M254.0,400 V348.0 Q254.0,344.0 258.0,344.0 H280.0 Q284.0,344.0 284.0,348.0 V400 Z" fill="#2a78d6"/>
+<path d="M286.0,400 V236.0 Q286.0,232.0 290.0,232.0 H312.0 Q316.0,232.0 316.0,236.0 V400 Z" fill="#eb6834"/>
+<text x="285.0" y="420" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="285.0" dy="0.0">칸 위</tspan></text>
+<path d="M340.0,400 V376.0 Q340.0,372.0 344.0,372.0 H366.0 Q370.0,372.0 370.0,376.0 V400 Z" fill="#2a78d6"/>
+<path d="M372.0,400 V292.0 Q372.0,288.0 376.0,288.0 H398.0 Q402.0,288.0 402.0,292.0 V400 Z" fill="#eb6834"/>
+<text x="371.0" y="420" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="371.0" dy="0.0">꽂기*</tspan></text>
+<path d="M426.0,400 V390.0 Q426.0,386.0 430.0,386.0 H452.0 Q456.0,386.0 456.0,390.0 V400 Z" fill="#2a78d6"/>
+<text x="441.0" y="379.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="441.0" dy="0.0">1/20</tspan></text>
+<text x="441.0" y="364.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="441.0" dy="0.0">5%</tspan></text>
+<path d="M458.0,400 V320.0 Q458.0,316.0 462.0,316.0 H484.0 Q488.0,316.0 488.0,320.0 V400 Z" fill="#eb6834"/>
+<text x="473.0" y="309.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="473.0" dy="0.0">6/20</tspan></text>
+<text x="473.0" y="294.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="473.0" dy="0.0">30%</tspan></text>
+<text x="457.0" y="420" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="457.0" dy="0.0">성공</tspan></text>
+<text x="560" y="70" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="14.5" font-weight="700" fill="#0b0b0b" text-anchor="start"><tspan x="560" dy="0.0">(b) 배치·회차별 결과 (실행 순서 v2 → v1 → v1 → v2)</tspan></text>
+<rect x="560" y="84" width="12" height="12" rx="2" fill="#33322e" stroke="none" stroke-width="1.2"/>
+<text x="578" y="95" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start"><tspan x="578" dy="0.0">성공</tspan></text>
+<rect x="640" y="84" width="12" height="12" rx="2" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="658" y="95" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start"><tspan x="658" dy="0.0">부분 (쥐었지만 못 꽂음)</tspan></text>
+<rect x="840" y="84" width="12" height="12" rx="2" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="858" y="95" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start"><tspan x="858" dy="0.0">실패 (못 쥠)</tspan></text>
+<rect x="566" y="144" width="10" height="10" rx="2" fill="#2a78d6" stroke="none" stroke-width="1.2"/>
+<text x="582" y="153" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start"><tspan x="582" dy="0.0">v1 1회</tspan></text>
+<rect x="640" y="128" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="660.0" y="152.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="660.0" dy="0.0">실</tspan></text>
+<rect x="682" y="128" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="702.0" y="152.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="702.0" dy="0.0">부</tspan></text>
+<rect x="724" y="128" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="744.0" y="152.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="744.0" dy="0.0">실</tspan></text>
+<rect x="766" y="128" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="786.0" y="152.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="786.0" dy="0.0">부</tspan></text>
+<rect x="808" y="128" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="828.0" y="152.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="828.0" dy="0.0">부</tspan></text>
+<rect x="850" y="128" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="870.0" y="152.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="870.0" dy="0.0">실</tspan></text>
+<rect x="892" y="128" width="40" height="38" rx="4" fill="#33322e" stroke="none" stroke-width="1.2"/>
+<text x="912.0" y="152.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="912.0" dy="0.0">성</tspan></text>
+<rect x="934" y="128" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="954.0" y="152.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="954.0" dy="0.0">실</tspan></text>
+<rect x="976" y="128" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="996.0" y="152.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="996.0" dy="0.0">실</tspan></text>
+<rect x="1018" y="128" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="1038.0" y="152.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="1038.0" dy="0.0">실</tspan></text>
+<rect x="566" y="184" width="10" height="10" rx="2" fill="#2a78d6" stroke="none" stroke-width="1.2"/>
+<text x="582" y="193" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start"><tspan x="582" dy="0.0">v1 2회</tspan></text>
+<rect x="640" y="168" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="660.0" y="192.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="660.0" dy="0.0">실</tspan></text>
+<rect x="682" y="168" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="702.0" y="192.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="702.0" dy="0.0">부</tspan></text>
+<rect x="724" y="168" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="744.0" y="192.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="744.0" dy="0.0">실</tspan></text>
+<rect x="766" y="168" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="786.0" y="192.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="786.0" dy="0.0">실</tspan></text>
+<rect x="808" y="168" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="828.0" y="192.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="828.0" dy="0.0">실</tspan></text>
+<rect x="850" y="168" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="870.0" y="192.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="870.0" dy="0.0">실</tspan></text>
+<rect x="892" y="168" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="912.0" y="192.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="912.0" dy="0.0">부</tspan></text>
+<rect x="934" y="168" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="954.0" y="192.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="954.0" dy="0.0">실</tspan></text>
+<rect x="976" y="168" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="996.0" y="192.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="996.0" dy="0.0">실</tspan></text>
+<rect x="1018" y="168" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="1038.0" y="192.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="1038.0" dy="0.0">실</tspan></text>
+<text x="1072" y="172" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="start"><tspan x="1072" dy="0.0">성공 1/20</tspan></text>
+<rect x="566" y="234" width="10" height="10" rx="2" fill="#eb6834" stroke="none" stroke-width="1.2"/>
+<text x="582" y="243" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start"><tspan x="582" dy="0.0">v2 1회</tspan></text>
+<rect x="640" y="218" width="40" height="38" rx="4" fill="#33322e" stroke="none" stroke-width="1.2"/>
+<text x="660.0" y="242.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="660.0" dy="0.0">성</tspan></text>
+<rect x="682" y="218" width="40" height="38" rx="4" fill="#33322e" stroke="none" stroke-width="1.2"/>
+<text x="702.0" y="242.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="702.0" dy="0.0">성</tspan></text>
+<rect x="724" y="218" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="744.0" y="242.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="744.0" dy="0.0">부</tspan></text>
+<rect x="766" y="218" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="786.0" y="242.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="786.0" dy="0.0">부</tspan></text>
+<rect x="808" y="218" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="828.0" y="242.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="828.0" dy="0.0">실</tspan></text>
+<rect x="850" y="218" width="40" height="38" rx="4" fill="#33322e" stroke="none" stroke-width="1.2"/>
+<text x="870.0" y="242.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="870.0" dy="0.0">성</tspan></text>
+<rect x="892" y="218" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="912.0" y="242.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="912.0" dy="0.0">실</tspan></text>
+<rect x="934" y="218" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="954.0" y="242.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="954.0" dy="0.0">부</tspan></text>
+<rect x="976" y="218" width="40" height="38" rx="4" fill="#33322e" stroke="none" stroke-width="1.2"/>
+<text x="996.0" y="242.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="996.0" dy="0.0">성</tspan></text>
+<rect x="1018" y="218" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="1038.0" y="242.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="1038.0" dy="0.0">실</tspan></text>
+<rect x="566" y="274" width="10" height="10" rx="2" fill="#eb6834" stroke="none" stroke-width="1.2"/>
+<text x="582" y="283" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start"><tspan x="582" dy="0.0">v2 2회</tspan></text>
+<rect x="640" y="258" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="660.0" y="282.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="660.0" dy="0.0">부</tspan></text>
+<rect x="682" y="258" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="702.0" y="282.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="702.0" dy="0.0">부</tspan></text>
+<rect x="724" y="258" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="744.0" y="282.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="744.0" dy="0.0">실</tspan></text>
+<rect x="766" y="258" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="786.0" y="282.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="786.0" dy="0.0">부</tspan></text>
+<rect x="808" y="258" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="828.0" y="282.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="828.0" dy="0.0">실</tspan></text>
+<rect x="850" y="258" width="40" height="38" rx="4" fill="#33322e" stroke="none" stroke-width="1.2"/>
+<text x="870.0" y="282.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="870.0" dy="0.0">성</tspan></text>
+<rect x="892" y="258" width="40" height="38" rx="4" fill="#a9a79e" stroke="none" stroke-width="1.2"/>
+<text x="912.0" y="282.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="912.0" dy="0.0">실</tspan></text>
+<rect x="934" y="258" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="954.0" y="282.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="954.0" dy="0.0">부</tspan></text>
+<rect x="976" y="258" width="40" height="38" rx="4" fill="#33322e" stroke="none" stroke-width="1.2"/>
+<text x="996.0" y="282.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="996.0" dy="0.0">성</tspan></text>
+<rect x="1018" y="258" width="40" height="38" rx="4" fill="#75736b" stroke="none" stroke-width="1.2"/>
+<text x="1038.0" y="282.0" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle"><tspan x="1038.0" dy="0.0">부</tspan></text>
+<text x="1072" y="262" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="start"><tspan x="1072" dy="0.0">성공 6/20</tspan></text>
+<text x="660.0" y="316" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="660.0" dy="0.0">T01</tspan></text>
+<text x="702.0" y="316" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="702.0" dy="0.0">T02</tspan></text>
+<text x="702.0" y="332" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="702.0" dy="0.0">옆 칸</tspan></text>
+<text x="744.0" y="316" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="744.0" dy="0.0">T03</tspan></text>
+<text x="744.0" y="332" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="744.0" dy="0.0">미끼</tspan></text>
+<text x="786.0" y="316" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="786.0" dy="0.0">T04</tspan></text>
+<text x="786.0" y="332" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="786.0" dy="0.0">미끼</tspan></text>
+<text x="786.0" y="346" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="786.0" dy="0.0">옆 칸</tspan></text>
+<text x="828.0" y="316" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="828.0" dy="0.0">T05</tspan></text>
+<text x="870.0" y="316" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="870.0" dy="0.0">T06</tspan></text>
+<text x="912.0" y="316" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="912.0" dy="0.0">T07</tspan></text>
+<text x="912.0" y="332" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="912.0" dy="0.0">미끼</tspan></text>
+<text x="954.0" y="316" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="954.0" dy="0.0">T08</tspan></text>
+<text x="996.0" y="316" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="996.0" dy="0.0">T09</tspan></text>
+<text x="1038.0" y="316" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12.5" font-weight="700" fill="#0b0b0b" text-anchor="middle"><tspan x="1038.0" dy="0.0">T10</tspan></text>
+<text x="1038.0" y="332" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="11" font-weight="400" fill="#52514e" text-anchor="middle"><tspan x="1038.0" dy="0.0">미끼</tspan></text>
+<text x="20" y="468" font-family="'Noto Sans CJK KR','Noto Sans KR',sans-serif" font-size="12" font-weight="400" fill="#52514e" text-anchor="start"><tspan x="20" dy="0.0">* 꽂기에는 자동 판정은 꽂기로 봤지만 사람 판정에서 빨간 칸이 아니었던 판(v1 1 · v2 2)도 들어감. 단계 = 자동 판정 단계 또는 사람 판정 성공.</tspan><tspan x="20" dy="15.8">양측 Fisher p — 잡기 0.01 · 칸 위 0.02 · 성공 0.09 (배치 안 순열 0.08).</tspan><tspan x="20" dy="15.8">미끼 = 학습에서 빨간 튜브가 자주 있던 튜브 랙 바깥 끝에 노란 튜브. 옆 칸 = 노란 튜브가 빨간 튜브 바로 옆 칸.</tspan></text></svg>
